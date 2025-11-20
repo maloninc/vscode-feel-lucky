@@ -2,7 +2,7 @@
     "name": "feel-lucky",
     "displayName": "Feel Lucky",
     "description": "Open a random file from the selected folder.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "maloninc",
     "repository": {
         "type": "git",
@@ -31,7 +31,7 @@
                 {
                     "command": "feel-lucky.openRandomFile",
                     "when": "explorerResourceIsFolder",
-                    "group": "navigation"
+                    "group": "z_commands"
                 }
             ]
         },
