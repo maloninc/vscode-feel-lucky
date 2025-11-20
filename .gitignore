@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build Output
+out/
+dist/
+*.vsix
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# VS Code Extension Development
+.vscode-test/
+
+# Agent/User Specific
+AGENTS.md
+PUBLISHING.md
